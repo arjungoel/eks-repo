@@ -1,4 +1,3 @@
-
 # Welcome to your CDK Python project!
 
 This is a blank project for CDK development with Python.
@@ -56,3 +55,6 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+=======
+# eks-repo
+This repository is used to create EKS cluster using AWS CDK Python
