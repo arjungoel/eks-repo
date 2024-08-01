@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aws-cdk/lambda-layer-kubectl-v27": "^2.1.0",
+    "@aws-cdk/lambda-layer-kubectl-v30": "^2.0.0"
+  }
+}
